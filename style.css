@@ -24,7 +24,7 @@ body{
 }
 canvas{
     border: 5px ridge plum;
-    margin-top: 150;
+    margin-top: 185;
     border-radius: 10px;
     box-shadow: 7px 7px 15px gray;
 }
